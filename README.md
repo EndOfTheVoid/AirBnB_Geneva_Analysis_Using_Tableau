@@ -1,0 +1,5 @@
+Using data sourced from Airbnb's database for Geneva, Switzerland, I conducted a comprehensive analysis aimed at assisting prospective real estate buyers interested in setting up Airbnb or other commercial ventures in the area. Leveraging my skills in Tableau and blending them with business and analytical acumen, I developed insightful visualizations.
+
+The analysis included a breakdown of property availability by quarter-month, providing a nuanced understanding of supply trends throughout the year. Additionally, I delved into property pricing by area, offering insights into the varying cost structures within Geneva. Furthermore, I examined the average price trends across different neighborhoods, aiding in strategic decision-making for potential investors.
+
+To offer a holistic perspective, I also explored the number of reviews received by properties on a monthly basis, reflecting customer engagement and satisfaction levels over time. By synthesizing these key metrics, my analysis equips prospective buyers with valuable insights to inform their real estate investment strategies in Geneva.
